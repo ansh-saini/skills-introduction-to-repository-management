@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @ansh-saini
+/src/backend/database.py      @ansh-saini
+/src/backend/routers/auth.py  @ansh-saini
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @ansh-saini
